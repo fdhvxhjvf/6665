@@ -233,7 +233,7 @@
 								</div>
 							</div>
 							<div class="eight columns"> 
-								<h5><span>засновник</span>Гордієнко Влад</h5>
+								<h5><span>засновник</span></h5>
 								<div class="subtext-team">-</div>
 								<p>-</p> 
 								<div class="social-team">
