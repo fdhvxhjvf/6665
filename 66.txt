@@ -6,7 +6,7 @@
 
 
 	<meta charset="utf-8">
-	<title>LEDMON</title>
+	<title>LEMON</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -92,7 +92,7 @@
 				<div>	
 					<div class='slidecontent'>
 						<span class="headersur">Обирай</span>
-						<h1>LEDMON</h1>
+						<h1>LEMON</h1>
 					</div>
 				</div>		
 			</div>
